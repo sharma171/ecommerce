@@ -9,7 +9,7 @@ const Header = () => {
     <a href="/" className="icons">
       <img src={ homelogo } alt="homenav" />
     </a>
-    <a href="/product/:id" className="icons">
+    <a href="/portfolio" className="icons">
       <img src={ portfolio } alt="portfolio" />
       </a>
     <a href="https://mail.google.com/mail/u/0/?to=sharmabhanu171@gmail.com&bcc=innovationonlineindia@gmail.com&subject=Hey#inbox?compose=new" className="icons">
