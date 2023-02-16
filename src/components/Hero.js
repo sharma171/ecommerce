@@ -66,7 +66,7 @@ const Hero = () => {
         <div className="flex-box-column">
           <p align="justify">As a highly motivated and skilled web developer, I have a passion for creating dynamic and engaging user experiences. With extensive knowledge of HTML, CSS, and JavaScript, I am able to build fast, responsive, and beautiful websites. My experience with React JS and Next JS has allowed me to develop high-performance web applications that meet the needs of my clients. I have a strong commitment to writing clean, maintainable code and following best practices in web development. I am always eager to learn new technologies and expand my skill set, and I take pride in delivering high-quality results in a timely and efficient manner.</p>
           <div className="flex-box-column">
-            <a href="/product/:id">
+            <a href="/portfolio">
           <button type='link' className="testiconbutton">
             <span>experience portfolio</span> <img src={navicon} alt='buttonnav' />
           </button></a></div>
