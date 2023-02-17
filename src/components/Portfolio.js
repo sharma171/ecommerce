@@ -1,9 +1,9 @@
 import React from 'react';
 import './portfolio.css';
-import gulfcans from './images/gulfcans.png';
-import isocape from './images/isocape.png';
-import crsplcons from './images/crspl.png';
-import crspltech from './images/crsplio.png';
+import gulfcans from './images/gulfcans.jpg';
+import isocape from './images/isocape.jpg';
+import crsplcons from './images/crspl.jpg';
+import crspltech from './images/crsplio.jpg';
 import navicon from './images/navright.svg';
 
 const Portfolio = () => {
