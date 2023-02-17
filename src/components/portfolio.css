@@ -1,13 +1,13 @@
 .flex-container {
-    flex: 0 0 60%;
+    flex: 0 0 70%;
     flex-wrap: wrap;
     display:flex;
-    width:60%;
+    width:70%;
     justify-content: center;
 }
 .flex-container .cards {
-    flex: 0 0 23em;
-    width:23em;
+    flex: 0 0 21em;
+    width:21em;
 }
 .flex-container .cards {
     height:fit-content;
@@ -19,8 +19,8 @@
     position: relative;
 }
 .flex-container .cards .portfolioimg img{
-    height:15em;
-    width: 23em;
+    height:13em;
+    width: 21em;
     object-fit: cover;
     object-position: 0% 0%;
     border-radius: 20px;
