@@ -10,7 +10,6 @@
     width:19.2em;
 }
 .flex-container .cards {
-    width: auto;
     height:fit-content;
     padding: 1em;
 }
